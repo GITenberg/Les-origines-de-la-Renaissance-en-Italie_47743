@@ -1,10 +1,16 @@
 _repo: Les-origines-de-la-Renaissance-en-Italie_47743
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47743-h/images/cover.jpg
 creator:
   author:
     agent_name: Gebhart, Émile
     gutenberg_agent_id: '42060'
     url: http://www.gutenberg.org/2009/agents/42060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47743#Les-origines-de-la-Renaissance-en-Italie
 gutenberg_bookshelf:
 - FR Histoire
 - FR Beaux-Arts
